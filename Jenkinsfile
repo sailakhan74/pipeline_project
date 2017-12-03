@@ -1,7 +1,5 @@
 node {
-  stage 'Checkout'
-   checkout paul
-  stage 'build'
+   stage 'build'
    echo 'your name'
    stage 'test'
    echo 'test'
