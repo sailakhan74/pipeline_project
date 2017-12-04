@@ -6,5 +6,5 @@ node {
    stage 'test'
    echo 'test'
    stage 'deploy'
-   echo 'deploy now 1'
+   echo 'deploy now 2'
  }
